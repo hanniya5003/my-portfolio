@@ -42,7 +42,6 @@ nav {
 }
 
 .hero .profile-pic {
-    transform: scaley(-1);
     width: 150px;
     border-radius: 50%;
 }
